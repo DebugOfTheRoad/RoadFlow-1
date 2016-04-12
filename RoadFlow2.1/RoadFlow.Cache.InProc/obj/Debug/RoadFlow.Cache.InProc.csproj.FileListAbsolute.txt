@@ -1,0 +1,7 @@
+D:\Projects1\RoadFlowold\RoadFlow2.1\RoadFlow.Cache.InProc\bin\Debug\RoadFlow.Cache.InProc.dll
+D:\Projects1\RoadFlowold\RoadFlow2.1\RoadFlow.Cache.InProc\bin\Debug\RoadFlow.Cache.InProc.pdb
+D:\Projects1\RoadFlowold\RoadFlow2.1\RoadFlow.Cache.InProc\bin\Debug\RoadFlow.Cache.Interface.dll
+D:\Projects1\RoadFlowold\RoadFlow2.1\RoadFlow.Cache.InProc\bin\Debug\RoadFlow.Cache.Interface.pdb
+D:\Projects1\RoadFlowold\RoadFlow2.1\RoadFlow.Cache.InProc\obj\Debug\RoadFlow.Cache.InProc.csprojResolveAssemblyReference.cache
+D:\Projects1\RoadFlowold\RoadFlow2.1\RoadFlow.Cache.InProc\obj\Debug\RoadFlow.Cache.InProc.dll
+D:\Projects1\RoadFlowold\RoadFlow2.1\RoadFlow.Cache.InProc\obj\Debug\RoadFlow.Cache.InProc.pdb

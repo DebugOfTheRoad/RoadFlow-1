@@ -1,20 +1,18 @@
 
-
-
 <html>
-<head>
-
+<!--head>
+   
     <meta name="viewport" content="width=device-width" />
     <meta name="description" content="RoadFlow是旗下基于asp.net的工作流快速开发平台，由从事六年以上OA及工作流开发与实施的团队设计开发，该工作流平台已应用于众多大型企事业单位。拥有全浏览器兼容的可视化流程设计器、表单设计器、基于角色的权限管理等先进设计理念，是您开发OA、CRM、HR等企事业各种应用管理系统的最佳基础平台。!" />
     <meta name="keywords" content="asp.net可视化工作流平台,授权与服务" />
     <link href="/READMEstyle/Style/StyleSheet.css" rel="stylesheet" />
-</head>
+</head-->
 <body>
-    <div class="head_top">
+    <!--div class="head_top">
         <div class="head_topdiv">
             <h1 class="head_toptxt"><a href="/RoadFlow" class="b">.NET MVC开源工作流系统</a> - <a href="/RoadFlow/Design" class="b">可视化流程设计器</a> - <a href="/RoadFlow/From" class="b">工作流表单设计器</a> - <a href="/RoadFlow" class="b">.NET快速开发平台</a></h1>
         </div>
-    </div>
+    </div-->
     <div class="div_main" style="margin-top:20px;">
         <table style="width:100%" cellpadding="0" cellspacing="0" border="0">
             <tr>

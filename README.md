@@ -1,12 +1,4 @@
 
-<html>
-<!--head>
-   
-    <meta name="viewport" content="width=device-width" />
-    <meta name="description" content="RoadFlow是旗下基于asp.net的工作流快速开发平台，由从事六年以上OA及工作流开发与实施的团队设计开发，该工作流平台已应用于众多大型企事业单位。拥有全浏览器兼容的可视化流程设计器、表单设计器、基于角色的权限管理等先进设计理念，是您开发OA、CRM、HR等企事业各种应用管理系统的最佳基础平台。!" />
-    <meta name="keywords" content="asp.net可视化工作流平台,授权与服务" />
-    <link href="/READMEstyle/Style/StyleSheet.css" rel="stylesheet" />
-</head-->
 <body>
     <div class="head_top">
         <div class="head_topdiv">
@@ -182,8 +174,8 @@
     
 </div>
 
-<div style="color=#ff0000">
-<b>原文链接：http://www.cqroad.cn/Service<b>
+<div>
+   <b style="color:red">原文链接：<a href="http://www.cqroad.cn/Service">http://www.cqroad.cn/Service</a></b>
 </div>
 </body>
 </html>

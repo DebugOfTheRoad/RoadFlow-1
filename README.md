@@ -1,6 +1,36 @@
-# RoadFlow
- 先进的.NET MVC开源工作流快速开发平台 - RoadFlow RoadFlow是一款集成工作流引擎的ASP.NET MVC快速开发平台，由从事多年工作流开发与实施的技术团队开发。该工作流平台是根据多年对企事业单位工作流应用经验总结而成，是一款符合于国情的工作流平台，特别适合于国内无标准，复杂多变的工作审批流转。拥有全浏览器兼容的可视化流程设计器、表单设计器、基于角色的权限管理等先进设计理念，是您开发OA、CRM、HR、ERP等大型系统的最佳基础平台。
 
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>asp.net可视化工作流平台 - 授权与服务 - </title>
+    <meta name="viewport" content="width=device-width" />
+    <meta name="description" content="RoadFlow是旗下基于asp.net的工作流快速开发平台，由从事六年以上OA及工作流开发与实施的团队设计开发，该工作流平台已应用于众多大型企事业单位。拥有全浏览器兼容的可视化流程设计器、表单设计器、基于角色的权限管理等先进设计理念，是您开发OA、CRM、HR等企事业各种应用管理系统的最佳基础平台。!" />
+    <meta name="keywords" content="asp.net可视化工作流平台,授权与服务" />
+    <link href="/READMEstyle/Style/StyleSheet.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="head_top">
+        <div class="head_topdiv">
+            <h1 class="head_toptxt"><a href="/RoadFlow" class="b">.NET MVC开源工作流系统</a> - <a href="/RoadFlow/Design" class="b">可视化流程设计器</a> - <a href="/RoadFlow/From" class="b">工作流表单设计器</a> - <a href="/RoadFlow" class="b">.NET快速开发平台</a></h1>
+        </div>
+    </div>
+    <div class="div_main" style="margin-top:20px;">
+        <table style="width:100%" cellpadding="0" cellspacing="0" border="0">
+            <tr>
+                <td style="width:250px;"><a href="/"><img style="border:0;" src="/READMEstyle/Images/logo.png" alt=".NET MVC开源工作流平台,可视化流程设计器" /></a></td>
+                <td class="head_nva">
+                    <span><a href="/">首 页</a></span>
+                    <span><a href="/WorkFlow">工作流引擎</a></span>
+                    <span><a href="/Doc/Default.aspx">使用文档</a></span>
+                    <span><a href="/Download">产品下载</a></span>
+                    <span><a href="/Service">授权与服务</a></span>
+                </td>
+            </tr>
+        </table>
+    </div>
+    <div class="head_line"></div>
+    
 
 <div class="div_main" style="margin-top:30px;">
     <div>
@@ -144,8 +174,8 @@
     <table style="width:900px; margin:0 auto;" border="0">
         <tr>
             <td>
-                <a target="_blank" href="http://cqnet110.gov.cn"><img src="/Images/sentrybox.gif" style="margin-right:30px; border:0;" /></a>
-                <a target="_blank" href="http://beian.cqnet110.gov.cn/open/showRecord?id=50010802000170"><img src="/Images/50010802000170.gif" style="border:0;" /></a>
+                <a target="_blank" href="http://cqnet110.gov.cn"><img src="/READMEstyle/Images/sentrybox.gif" style="margin-right:30px; border:0;" /></a>
+                <a target="_blank" href="http://beian.cqnet110.gov.cn/open/showRecord?id=50010802000170"><img src="/READMEstyle/Images/50010802000170.gif" style="border:0;" /></a>
             </td>
             
         </tr>
@@ -154,5 +184,6 @@
     
 </div>
 
-  
-  原文链接：http://www.cqroad.cn/Service
+
+</body>
+</html>

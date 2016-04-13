@@ -1,0 +1,47 @@
+body{margin:0; padding:0; font-size:12px; font-family:Verdana, Geneva, sans-serif;}
+
+a:link,a:visited,a:active {color:#253340; text-decoration:none;}
+a:hover {color:blue; text-decoration:underline;} 
+
+a.a:link,a.a:visited,a.a:active {color:#0333af; text-decoration:none;}
+a.a:hover {color:blue; text-decoration:underline;}
+
+a.b:link,a.b:visited,a.b:active {color:#999; text-decoration:none;}
+a.b:hover {color:#999; text-decoration:underline;}  
+
+a.c:link,a.c:visited,a.c:active {color:#253340; text-decoration:underline;}
+a.c:hover {color:blue; text-decoration:underline;}
+
+h1,h2,h3,h4{margin:0; padding:0;}
+
+.div_main {width:1000px; margin:0 auto;}
+.head_top {height:28px; background:#000000;}
+.head_topdiv { width:1000px; margin:0 auto; padding:5px 25px 0 0; text-align:right;}
+.head_toptxt { font-size:12px; color:#999; font-weight:normal;}
+.head_nva { text-align:right; vertical-align:bottom;}
+.head_nva span { margin:0 22px; font-size:16px;}
+.head_line { width:1000px; margin:0 auto; height:30px; border-bottom:1px solid #e8e8e8;}
+
+.banner_title { font-size:22px; font-weight:normal;}
+.banner_content { font-size:12px; color:#333333; line-height:28px; margin-top:15px;}
+.banner_down { margin:25px 0 0 0; text-align:center;}
+.banner_down div { float:left; height:30px; width:135px; text-align:center; padding:12px 0 0 0; font-size:14px; background:#e8e8e8; margin-right:30px;}
+
+.home_bodytitle {height:15px; padding:5px 0 0 0; font-size:14px;}
+.home_bodyimg { border:1px solid #e8e8e8; padding:3px;}
+.home_bodycontent { font-size:12px; color:#333333; line-height:24px; margin-top:15px;}
+
+.productmenuul { margin:0; list-style:none; line-height:23px; font-size:12px; padding:0 0 0 12px; text-align:left;}
+.productmenuli { padding:0 0 0 0px; margin:0; margin-top:8px; margin-bottom:8px;  font-weight:bold; border-bottom:1px dashed #e8e8e8; }
+.productmenuli1 { padding:0 0 0 0px; margin:0; }
+.productmenuul li a {  }
+.productleft { width:180px; }
+.productright { padding-left:50px; overflow:hidden;}
+
+.prouct_title { font-size:20px;  margin-bottom:18px; font-weight:normal;}
+.product_content { color: #333; line-height: 26px; overflow:hidden;}
+
+.doc_head { margin:0 auto; font-size:14px; height:35px; padding-bottom:15px; border-bottom:1px dashed #cccccc; line-height:35px; width:1000px; }
+.doc_head span { margin:0 5px;}
+.doc_main { width:1000px; margin:0 auto 0 auto;}
+.doc_left { width:200px; }
